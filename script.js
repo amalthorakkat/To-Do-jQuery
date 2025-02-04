@@ -8,7 +8,7 @@ todoBtn.click(() => {
     alert("Oops! You forgot to enter a todo. Please add one.");
   } else {
     const listContainer = $("<div>");
-    listContainer.css({ display: "flex", alignItems: "center", gap: "15px" });
+    listContainer.css({ display: "flex", alignItems: "center", gap: "15px", marginBottom: "20px" });
 
     const userValue = todoInput.val();
 
