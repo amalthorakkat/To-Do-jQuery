@@ -1,4 +1,5 @@
 📝 Simple jQuery To-Do List
+
 This is a simple to-do list application built using jQuery. It allows users to add, edit, delete, and mark tasks as done with an easy-to-use interface.
 
 ✨ Features
